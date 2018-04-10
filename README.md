@@ -9,9 +9,7 @@ During the construction process, I identified some items that can help you in th
 
 
 # 1. KBF's
-Login
-Buy Simulation
-Finalize purchase
+Login, purchase Simulation, finalize purchase
 
 # 2. Test Plans
 Excel annexed in "Test Plan" folder
