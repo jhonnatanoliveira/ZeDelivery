@@ -5,7 +5,7 @@ Thanks for the opportunity to show my knowledgeable and I hope attend yours expe
 During the construction process, I identified some items that can help you in the future:
 -	Not all the page objects have ID (this a important point to keep the integrity of the framework, the xpath’s can be relative what turns the maintenance more recurrent
 -	During the yesterday night (04/09) the tabs to choose the delivery in the checkout’s page don’t worked correctly (I annexed a print screen for your validation)
--	The product’s page, have a actualization delay when we execute some action, disabling any action in the products catalog between this time. With that, the user's expirience can be affected.
+-	The product’s page, have a actualization delay when we execute some action, with that disabling any action in the products catalog between this time. So, the user's experience can be affected.
 
 
 # 1. KBF's
